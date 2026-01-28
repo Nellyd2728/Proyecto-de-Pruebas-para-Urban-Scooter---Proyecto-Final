@@ -1,6 +1,6 @@
 # **Proyecto de Pruebas para Urban Scooter - Proyecto Final**
 
-## ** Nelly Dominguez**
+## **Nelly Dominguez**
 **Cohorte 36**
 
 ## **Descripción del Proyecto:**
