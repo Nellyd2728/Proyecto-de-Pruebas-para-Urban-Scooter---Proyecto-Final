@@ -1,10 +1,12 @@
-Proyecto-de-Pruebas-para-Urban-Scooter---Proyecto-Final
+##*Proyecto de Pruebas para Urban Scooter - Proyecto Final*
+
+#*Descripción del Proyecto:*
 
 Probar la aplicación Urban Scooter, un servicio que permite alquilar un scooter eléctrico durante varios días. 
 
 Diseñar y ejecutar casos de prueba funcionales para una aplicación de transporte urbano (Scooter eléctricos), validando flujos de reserva y seguimiento en tiempo real.
 
-Instrucciones para ejecutar las pruebas:
+#*Instrucciones para ejecutar las pruebas:*
 
 •	Diseñar pruebas para cubrir todos los requisitos (clases de equivalencia, valores límite y una tabla de decisión cuando corresponda)
 
@@ -32,7 +34,7 @@ Descripción de tecnologías utilizadas:
 
 •	Android Studio (dispositivo móvil)
 
-Logros:
+#*Logros:*
 
 •	Ejecuté con éxito pruebas funcionales, de regresión y de integración en los módulos web, móvil y API, garantizando un 100 % de cobertura de casos críticos.
 
