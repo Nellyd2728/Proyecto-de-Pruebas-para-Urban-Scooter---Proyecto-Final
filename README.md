@@ -1,5 +1,8 @@
 # **Proyecto de Pruebas para Urban Scooter - Proyecto Final**
 
+## ** Nelly Dominguez**
+**Cohorte 36**
+
 ## **Descripción del Proyecto:**
 
 Probar la aplicación Urban Scooter, un servicio que permite alquilar un scooter eléctrico durante varios días. 
